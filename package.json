@@ -1,0 +1,19 @@
+{
+  "name": "project-euler-solutions",
+  "version": "1.0.0",
+  "description": "Solutions to Project Euler problems in JavaScript https://projecteuler.net/archives",
+  "keywords": [
+    "project-euler",
+    "solutions",
+    "javascript"
+  ],
+  "author": {
+    "name": "Sarwagya Singh",
+    "email": "contact@0xsarwagya.codes"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.7.6",
+    "typescript": "^5.6.3"
+  }
+}
